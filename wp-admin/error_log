@@ -1,0 +1,7 @@
+[03-Nov-2019 21:54:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[03-Nov-2019 21:59:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[03-Nov-2019 21:59:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[03-Nov-2019 23:38:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[09-Nov-2019 22:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/wp-email-users/wp-send-mail.php on line 1224
+[09-Nov-2019 22:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/ebqsalon/public_html/ticketing/wp-content/plugins/wp-email-users/wp-send-mail.php on line 1361
+[26-Nov-2019 19:07:22 UTC] PHP Fatal error:  Class 'OMAPI_Widget' not found in /home1/ebqsalon/public_html/ticketing/wp-includes/class-wp-widget-factory.php on line 71
